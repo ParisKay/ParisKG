@@ -1,0 +1,1 @@
+This is a website for a tech school, specialised in training tech enthusiasts
